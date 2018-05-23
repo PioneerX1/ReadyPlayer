@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.pioneerx1.player.dao.PlayerDAOImplTest
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.026 s - in com.pioneerx1.player.dao.PlayerDAOImplTest
